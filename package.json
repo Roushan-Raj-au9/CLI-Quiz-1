@@ -4,7 +4,7 @@
   "description": "How well do you know me quiz .",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js" 
   },
   "repository": {
     "type": "git",
