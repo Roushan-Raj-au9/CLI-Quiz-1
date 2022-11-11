@@ -1,0 +1,23 @@
+{
+  "name": "cli-quiz-1",
+  "version": "1.0.0",
+  "description": "How well do you know me quiz .",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roushan-Raj-au9/CLI-Quiz-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roushan-Raj-au9/CLI-Quiz-1/issues"
+  },
+  "homepage": "https://github.com/Roushan-Raj-au9/CLI-Quiz-1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
